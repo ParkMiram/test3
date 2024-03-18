@@ -1,1 +1,5 @@
 박미람
+
+git add .
+
+git commit -m "test"
